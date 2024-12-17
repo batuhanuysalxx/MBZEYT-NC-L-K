@@ -7,4 +7,14 @@
    .menu {
     flex: 1;                    
   }
+  .buyuyen-resim {
+    transition: transform 0.3s ease-in-out;
+  }
   
+  .buyuyen-resim:hover {
+    transform: scale(1.2);
+  }
+
+  .center-container {
+    text-align: center;
+}
